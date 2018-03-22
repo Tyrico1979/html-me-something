@@ -1,0 +1,63 @@
+body {
+    width: 100%;
+    background-color: grey;
+    margin: 0 auto;
+}
+
+header {
+    padding: 2em 0;
+}
+
+header h1 {
+    text-align: center;
+}
+
+h2 {
+    text-align: center;
+}
+
+p {
+    text-align: center;
+}
+img {
+    width: 100%;
+    max-width: 100%;
+
+}
+
+main h2 {
+    padding: 0.625em 0 0.625em 0.625em;
+}
+
+section {
+    margin: 7.875em;
+}
+
+ul {
+    text-align: center;
+    padding: 0;
+}
+
+ul li {
+    display: inline-block;
+    margin-right: 1em;
+    
+
+}
+
+footer {
+    text-align: center;
+}
+
+footer p {
+    display: inline-block;
+}
+
+.red {
+    color:red;
+
+}
+
+#place {
+    color:darkgreen;
+}
